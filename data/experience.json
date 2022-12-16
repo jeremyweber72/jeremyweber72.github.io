@@ -1,0 +1,106 @@
+[
+  {
+    "role": "Senior Software Development Engineer",
+    "company": "Adobe",
+    "summary": "",
+    "bullets": [],
+    "range": "August 2022 - Present"
+  },
+  {
+    "role": "Senior Devops and Infrastructure Engineer",
+    "company": "NorthPage",
+    "summary": "",
+    "bullets": [
+      "Migrated primary delivery assets from AMI’s to Docker images for a variety of project types including Java, Python, Node, and GO projects. Migration improved project build and deployment times by at least 50%.",
+      "Composed infrastructure-as-code scripts in Terraform. Terraform was used to create all AWS cloud resources including EC2 instances, ALB’s, ASG’s, Launch Templates, S3 buckets, CloudFront distributions, Aurora Instances, Security Groups, Route53 zones/records, IAM policies and VPC’s.",
+      "Created repeatable, consistent, automated and deployment-ready builds with Jenkins CI/CD pipelines. Pipelines implemented in scripted groovy with shared libraries. Pipelines produced environment independent docker images stored in private docker registry.",
+      "Responsible for creating, maintaining and running Jenkins parameterized deployment pipelines. Pipelines managed database schema updates, data migration, Solr indexing, AWS resources via Terraform as well as deploying dockerized distributed product applications and dockerized third party applications such as Solr and Redis. Deployment cadence was typically bi-weekly.",
+      "Maintained and migrated internal applications from Ruby to GO in order to reduce developer runtime friction.",
+      "Eliminated Chef configuration management friction by migrating Chef recipes to Ansible.",
+      "Reduced AWS costs by changing deployment footprint to better utilize instance resources, introducing spot instances, EOB schedules and lambda services.",
+      "Improved AWS security by implementing a bastion server and EC2 Instance Connect, locking down instances to outside access and eliminating embedded AWS credentials.",
+      "Designed automated pipelines in Jenkins to prune stale AWS resources, perform database backups and maintain docker repository. ",
+      "Captured log data and performance metrics in ELK and Grafana which allowed for timely access to logs and alerting.",
+      "Ensured product quality by participating in code reviews and automated/manual testing."
+    ],
+    "range": "May 2016 - June 2022"
+  },
+  {
+    "role": "Devops Engineer",
+    "company": "Edge2Web",
+    "summary": "",
+    "bullets": [
+      "Created Jenkins CI/CD environments and pipelines.",
+      "Created AWS cloud infrastructure for development, staging and multiple production environments using Packer, Terraform and Ansible.",
+      "Streamlined customer onboarding by managing necessary infrastructure creation in custom built Node-RED flow.",
+      "Completed technical portions of AWS FTR which was required to become a certified AWS partner. This included enabling Cloud Trail, separating operational environments into separate sub-accounts, enabling SSO, requiring MFA and creating disaster recovery procedures.",
+      "Reduced deployment complexity by migrating from AWS Beanstalk to Rancher which allowed for simpler and more user friendly deployments.",
+      "Created shell/gulp scripts to aid developers running locally.",
+      "Implemented ELK and Grafana for log monitoring, analytics and alerting.",
+      "Created Selenium webdriver framework for automated tests."
+    ],
+    "range": "Various"
+  },
+  {
+    "role": "Senior QA Manager",
+    "company": "Informatica",
+    "summary": "",
+    "bullets": [
+      "Supervised hybrid team across 3 time zones and to ensure high quality releases across multiple products with ambitious timelines.",
+      "Worked closely with development and project managers in sprint planning, defect triage and mitigation.",
+      "Monitored development schedules and quality activities for potential risk to delivery and quality.",
+      "Ensured appropriate test coverage by reviewing and writing manual and automated test cases, specifications and requirements.",
+      "Increased automation test coverage by migrating from IBM RFT to open-source alternatives including HTTPUnit, HTMLUnit and Selenium.",
+      "Maintained defect tracking software and onsite QA lab.",
+      "Implemented Jenkins CI/CD pipelines to build software and perform releases.",
+      "In coordination with development, migrated ANT based build to Maven.",
+      "Created build and deployment procedures for Salesforce.com native application.",
+      "Enabled and supported operations, support and documentation teams.",
+      "Worked with management on resource management and capacity planning.",
+      "Trained new team members in product, automation and procedures.",
+      "Provided hands on leadership, performance reviews and career development planning to team members."
+    ],
+    "range": "November 2007 - March 2016"
+  },
+  {
+    "role": "SCM Engineer",
+    "company": "Active Endpoints",
+    "summary": "",
+    "bullets": [
+        "Created and improved Apache ANT build procedures.",
+        "Created multi-platform based installers using InstallShield and Install4J.",
+        "Created configuration application with support for IBM WebSphere, Oracle WebLogic, Redhat JBoss/Wildfly and Apache Tomcat which allowed end users to configure the ActiveVOS Server application and its required JNDI resources.",
+        "Created build procedures to produce Eclipse RCP, plugin and Infocenter applications.",
+        "Created stylesheets to transform DITA based documentation into InfoCenter based topics.",
+        "Migrated version control system from CVS to SVN."
+    ],
+    "range": "April 2004 - November 2007"
+  },
+  {
+    "role": "SCK Direct",
+    "company": "QA Manager",
+    "summary": "",
+    "bullets": [
+        "Selected, implemented and administered test planning and defect tracking tools.",
+        "Created and maintained build procedures.",
+        "Reported test metrics and release reports to Operations Manager.",
+        "Diagnosed, replicated and determined cause of in-field production issues.",
+        "Designed and executed manual regression, acceptance, stress test cases against both hardware and software. ",
+        "Assisted in the adoption of Agile development methodologies."
+    ],
+    "range": "March 2003 - April 2004"
+  },
+  {
+    "role": "Senior SCM Specialist",
+    "company": "Eventra",
+    "summary": "",
+    "bullets": [
+        "Developed build environments and procedures using Perl and Apache Ant.",
+        "Maintained version control system.",
+        "Trained colleagues in CVS administration and application build, installation and configuration.",
+        "Helped write end user documentation in areas of installation, configuration and troubleshooting.",
+        "Developed internal tools in C++ and VB."
+    ],
+    "range": "January 2001 - Febuary 2003"
+  }
+]

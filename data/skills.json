@@ -1,0 +1,118 @@
+[
+  {
+    "grouping": "Languages",
+    "skills": [
+      { "name": "Java", "icon": "java-plain" },
+      { "name": "Python", "icon": "python-plain" },
+      { "name": "Go", "icon": "go-plain" },
+      { "name": "NodeJS", "icon": "nodejs-plain" },
+      { "name": "Ruby", "icon": "ruby-plain" },
+      { "name": "Bash", "icon": "bash-plain" },
+      { "name": "Javascript", "icon": "javascript-plain" },
+      { "name": "Typescript", "icon": "typescript-plain" },
+      { "name": "BPEL", "icon": "https://pbs.twimg.com/profile_images/533567922/AE_144x144_white_400x400.jpg" },
+      { "name": "Groovy", "icon": "groovy-plain" }
+    ]
+  },
+  {
+    "grouping": "Platform Development",
+    "skills": [
+      { "name": "Spring Boot", "icon": "spring-plain" },
+      { "name": "Atlassian", "icon": "jira-plain" },
+      { "name": "Eclipse", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi5PiaWvQQqim-Acnc7Up1mWHVjBtvmWlmQAhHNg&s" },
+      { "name": "Maven", "icon": "apache-plain" },
+      { "name": "Ant", "icon": "apache-plain" },
+      { "name": "NodeJS", "icon": "nodejs-plain" },
+      { "name": "NPM", "icon": "npm-original-wordmark" },
+      { "name": "Grunt", "icon": "grunt-plain" },
+      { "name": "Gulp", "icon": "gulp-plain" },
+      { "name": "Hugo", "icon": "hugo-plain" },
+      { "name": "PyCharm", "icon": "pycharm-plain" },
+      { "name": "Subversion", "icon": "subversion-original" },
+      { "name": "Git", "icon": "git-plain" },
+      { "name": "VSCode", "icon": "vscode-plain" }
+    ]
+  },
+  {
+    "grouping": "Content",
+    "skills": [
+      { "name": "Apache", "icon": "apache-plain" },
+      { "name": "Nginx", "icon": "nginx-plain" },
+      { "name": "Tomcat", "icon": "tomcat-line" },
+      { "name": "JBoss", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WoakaFmhkIIwCH5A9MONVKdFHv9FY21-iImW9C4Tt6BL0SpT-VrolkTfQ4ILg-NpzFM&usqp=CAU" },
+      { "name": "WebSphere", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTET-0Qz_BNPlCeqBhE7crydtJcgyMcRdzFNl4C0t_46w&s" },
+      { "name": "WebLogic", "icon": "https://d22e4d61ky6061.cloudfront.net/sites/default/files/Oracle%20Weblogic.png" }
+    ]
+  },
+  {
+    "grouping": "Data",
+    "skills": [
+      { "name": "SQL Server", "icon": "microsoftsqlserver-plain" },
+      { "name": "Oracle", "icon": "oracle-original" },
+      { "name": "DB2", "icon": "db2-plain" },
+      { "name": "MySQL", "icon": "mysql-plain" },
+      { "name": "PostgreSQL", "icon": "postgresql-plain" },
+      { "name": "Derby", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTb9Mn86CnCmimydghBK5bg8T2gMraAUWEGIwr73NhIw&s"},
+      { "name": "H2", "icon": "https://dbdb.io/media/logos/h2-logo.svg" },
+      { "name": "Mongo", "icon": "mongodb-plain" },
+      { "name": "Redis", "icon": "redis-plain" },
+      { "name": "Solr", "icon": "https://www.instana.com/media/01_INSTANA_IconSet_Apache_Solr.svg" },
+      { "name": "DocumentDB", "icon": "https://files.cdata.com/media/media/gw2cve33/20190117-connect-to-documentdb-1.png" },
+      { "name": "ActiveMQ", "icon": "https://activemq.apache.org/assets/img/activemq_logo_icon.svg" },
+      { "name": "RabbitMQ", "icon": "https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" },
+      { "name": "IBM MQ", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTET-0Qz_BNPlCeqBhE7crydtJcgyMcRdzFNl4C0t_46w&s" }
+    ]
+  },
+  {
+    "grouping": "Devops",
+    "skills": [
+      { "name": "Ansible", "icon": "ansible-plain" },
+      { "name": "Packer", "icon": "packer-plain" },
+      { "name": "Terraform", "icon": "terraform-plain" },
+      { "name": "Chef", "icon": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" },
+      { "name": "Spinnaker", "icon": "https://spinnaker.io/images/spinnaker-logo-horizontal.png" },
+      { "name": "Jenkins", "icon": "jenkins-plain" }
+    ]
+  },
+  {
+    "grouping": "Monitoring",
+    "skills": [
+      { "name": "ELK", "icon": "https://w7.pngwing.com/pngs/675/954/png-transparent-elasticsearch-kibana-logo-logstash-business-business-people-logo-computer-wallpaper.png" },
+      { "name": "Splunk", "icon": "https://xtremeownage.com/wp-content/uploads/2019/09/Splunk_Icon.png" },
+      { "name": "CloudWatch", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRklQkLlmvpRBtubqTpe97qJmV97mzqcJ8n7nQTwdm2Uw&s" },
+      { "name": "Grafana", "icon": "grafana-plain" },
+      { "name": "Prometheus", "icon": "prometheus-original" }
+    ]
+  },
+  {
+    "grouping": "Containers and Cloud",
+    "skills": [
+      { "name": "AWS", "link": "https://aws.amazon.com", "icon": "amazonwebservices-original"},
+      { "name": "Docker", "link": "https://docker.com",  "icon": "docker-plain" },
+      { "name": "Docker Compose", "link": "https://docker.com", "icon": "docker-plain" },
+      { "name": "EKS", "link": "https://aws.amazon.com/eks/", "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_eks_logo_icon_168659.png" },
+      { "name": "Kubernetes", "link": "https://kubernetes.io", "icon": "kubernetes-plain"},
+      { "name": "Rancher", "link": "https://rancher.com", "icon":"https://www.instana.com/media/01_INSTANA_Rancher-01.svg" }
+    ]
+  },
+  {
+    "grouping": "Testing",
+    "skills": [
+      { "name": "JUnit", "icon": "https://avatars.githubusercontent.com/u/874086?s=200&v=4" },
+      { "name": "Selenium/WebDriver", "icon": "selenium-original" },
+      { "name": "SoapUI", "icon": "https://www.soapui.org/soapui/media/images/stories/homepage/Features/soapUI-logo.png" },
+      { "name": "JMeter", "icon": "https://www.javatpoint.com/jmeter/images/jmeter-tutorial.png" },
+      { "name": "TestLink", "icon": "https://www.devopsschool.com/blog/wp-content/uploads/2022/04/testlink-logo-1024x307.png" }
+    ]
+  },
+  {
+    "grouping": "Web Services",
+    "skills": [
+      { "name": "REST", "icon": "https://visualpharm.com/assets/234/Rest%20Api-595b40b75ba036ed117d790b.svg" },
+      { "name": "WSDL/SOAP", "icon": "https://miro.medium.com/max/720/0*p9J8z9nW2ukf5bWn.webp" },
+      { "name": "ActiveVOS/Informatica ICRT", "icon": "https://www.informatica.com/content/dam/informatica-com/en/image/misc/logo-mark.png" },
+      { "name": "NodeRed", "icon": "https://nodered.org/about/resources/media/node-red-icon.png" },
+      { "name": "XML/XSD/JSON", "icon": "https://icons.iconarchive.com/icons/icons8/windows-8/256/Files-Xml-icon.png" }
+    ]
+  }
+]

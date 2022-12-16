@@ -1,0 +1,25 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+  <div class="my-auto" id="experience-content">
+    <h2 class="mb-5">Experience</h2>
+    <div class="columns">
+      {{ range .Site.Data.experience }}
+      <div class="column">
+        <div>
+          <h3 class="mb-0">{{ .role }}</h3>
+          <div class="subheading mb-3">{{ .company | markdownify }} | {{ .range }}</div>
+        </div>
+      </div>
+      <div class="column">
+        <ul>
+        {{ range .bullets }}
+        <li>
+        {{ . }}
+      </li>
+        {{ end }}
+      </ul>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+</section>

@@ -1,0 +1,48 @@
+title = "Jeremy Weber"
+baseURL = "https://www.jweber.info/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Oxford, CT"
+email = "jeremyweber2022@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Jeremy"
+lastName = "Weber"
+phone = "1-203-632-9507"
+profileImage = "img/profile.png"
+profileImageHover = "img/profile-hover.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = true
+showCerts = false
+showSkills = true
+showContact = true
+
+[params.aep]
+beaconUrl = "{{ .Site.Params.beaconurl }}"
+
+[params.google]
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/jweber72/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/jeremyweber72/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON", "RSS"]
+
+[Taxonomies]
+tag = "tags"
